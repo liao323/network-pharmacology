@@ -1,0 +1,141 @@
+Node1	Node2
+Apoptosis	BCL2
+Apoptosis	CASP3
+Apoptosis	CTSB
+Apoptosis	FOS
+Apoptosis	MAPK1
+Apoptosis	RELA
+Apoptosis	TNFSF10
+IL-17 signaling pathway	CASP3
+IL-17 signaling pathway	FOS
+IL-17 signaling pathway	MMP9
+IL-17 signaling pathway	MUC5AC
+IL-17 signaling pathway	MAPK1
+IL-17 signaling pathway	RELA
+HIF-1 signaling pathway	BCL2
+HIF-1 signaling pathway	HIF1A
+HIF-1 signaling pathway	NOS2
+HIF-1 signaling pathway	MAPK1
+HIF-1 signaling pathway	RELA
+HIF-1 signaling pathway	VEGFA
+Relaxin signaling pathway	FOS
+Relaxin signaling pathway	MMP9
+Relaxin signaling pathway	NOS2
+Relaxin signaling pathway	MAPK1
+Relaxin signaling pathway	RELA
+Relaxin signaling pathway	VEGFA
+Th17 cell differentiation	FOS
+Th17 cell differentiation	HIF1A
+Th17 cell differentiation	HLA-DQB1
+Th17 cell differentiation	MAPK1
+Th17 cell differentiation	RELA
+TNF signaling pathway	CASP3
+TNF signaling pathway	FOS
+TNF signaling pathway	MMP9
+TNF signaling pathway	MAPK1
+TNF signaling pathway	RELA
+Prolactin signaling pathway	FOS
+Prolactin signaling pathway	MAPK1
+Prolactin signaling pathway	PRLR
+Prolactin signaling pathway	RELA
+MAPK signaling pathway	CASP3
+MAPK signaling pathway	FOS
+MAPK signaling pathway	MYC
+MAPK signaling pathway	MAPK1
+MAPK signaling pathway	RELA
+MAPK signaling pathway	VEGFA
+NOD-like receptor signaling pathway	BCL2
+NOD-like receptor signaling pathway	CTSB
+NOD-like receptor signaling pathway	MAPK1
+NOD-like receptor signaling pathway	RELA
+NOD-like receptor signaling pathway	IRF9
+Th1 and Th2 cell differentiation	FOS
+Th1 and Th2 cell differentiation	HLA-DQB1
+Th1 and Th2 cell differentiation	MAPK1
+Th1 and Th2 cell differentiation	RELA
+cAMP signaling pathway	CFTR
+cAMP signaling pathway	FOS
+cAMP signaling pathway	MAPK1
+cAMP signaling pathway	RELA
+cAMP signaling pathway	TIAM1
+Osteoclast differentiation	FOS
+Osteoclast differentiation	MAPK1
+Osteoclast differentiation	RELA
+Osteoclast differentiation	IRF9
+Estrogen signaling pathway	BCL2
+Estrogen signaling pathway	FOS
+Estrogen signaling pathway	MMP9
+Estrogen signaling pathway	MAPK1
+Chemokine signaling pathway	MAPK1
+Chemokine signaling pathway	RELA
+Chemokine signaling pathway	CXCL12
+Chemokine signaling pathway	TIAM1
+B cell receptor signaling pathway	FOS
+B cell receptor signaling pathway	MAPK1
+B cell receptor signaling pathway	RELA
+Ras signaling pathway	MAPK1
+Ras signaling pathway	RELA
+Ras signaling pathway	TIAM1
+Ras signaling pathway	VEGFA
+NF-kappa B signaling pathway	BCL2
+NF-kappa B signaling pathway	RELA
+NF-kappa B signaling pathway	CXCL12
+Toll-like receptor signaling pathway	FOS
+Toll-like receptor signaling pathway	MAPK1
+Toll-like receptor signaling pathway	RELA
+C-type lectin receptor signaling pathway	MAPK1
+C-type lectin receptor signaling pathway	RELA
+C-type lectin receptor signaling pathway	IRF9
+T cell receptor signaling pathway	FOS
+T cell receptor signaling pathway	MAPK1
+T cell receptor signaling pathway	RELA
+Cholinergic synapse	BCL2
+Cholinergic synapse	FOS
+Cholinergic synapse	MAPK1
+Sphingolipid signaling pathway	BCL2
+Sphingolipid signaling pathway	MAPK1
+Sphingolipid signaling pathway	RELA
+Neurotrophin signaling pathway	BCL2
+Neurotrophin signaling pathway	MAPK1
+Neurotrophin signaling pathway	RELA
+PI3K-Akt signaling pathway	BCL2
+PI3K-Akt signaling pathway	ITGA4
+PI3K-Akt signaling pathway	MYC
+PI3K-Akt signaling pathway	MAPK1
+PI3K-Akt signaling pathway	PRLR
+PI3K-Akt signaling pathway	RELA
+PI3K-Akt signaling pathway	THBS1
+PI3K-Akt signaling pathway	VEGFA
+Rap1 signaling pathway	CDH1
+Rap1 signaling pathway	ITGB2
+Rap1 signaling pathway	MAPK1
+Rap1 signaling pathway	THBS1
+Rap1 signaling pathway	TIAM1
+Rap1 signaling pathway	VEGFA
+JAK-STAT signaling pathway	BCL2
+JAK-STAT signaling pathway	MYC
+JAK-STAT signaling pathway	PRLR
+JAK-STAT signaling pathway	IRF9
+TGF-beta signaling pathway	ID3
+TGF-beta signaling pathway	MYC
+TGF-beta signaling pathway	MAPK1
+TGF-beta signaling pathway	THBS1
+Thyroid hormone signaling pathway	HIF1A
+Thyroid hormone signaling pathway	MYC
+Thyroid hormone signaling pathway	MAPK1
+Apelin signaling pathway	CDH1
+Apelin signaling pathway	NOS2
+Apelin signaling pathway	MAPK1
+Hippo signaling pathway	CDH1
+Hippo signaling pathway	ITGB2
+Hippo signaling pathway	MYC
+FoxO signaling pathway	MAPK1
+FoxO signaling pathway	SOD2
+FoxO signaling pathway	TNFSF10
+p53 signaling pathway	BCL2
+p53 signaling pathway	CASP3
+p53 signaling pathway	THBS1
+Autophagy - animal	BCL2
+Autophagy - animal	CTSB
+Autophagy - animal	HIF1A
+Autophagy - animal	MAPK1

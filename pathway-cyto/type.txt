@@ -1,0 +1,59 @@
+Node	Type
+Apoptosis	pathway
+IL-17 signaling pathway	pathway
+HIF-1 signaling pathway	pathway
+Relaxin signaling pathway	pathway
+Th17 cell differentiation	pathway
+TNF signaling pathway	pathway
+Prolactin signaling pathway	pathway
+MAPK signaling pathway	pathway
+NOD-like receptor signaling pathway	pathway
+Th1 and Th2 cell differentiation	pathway
+cAMP signaling pathway	pathway
+Osteoclast differentiation	pathway
+Estrogen signaling pathway	pathway
+Chemokine signaling pathway	pathway
+B cell receptor signaling pathway	pathway
+Ras signaling pathway	pathway
+NF-kappa B signaling pathway	pathway
+Toll-like receptor signaling pathway	pathway
+C-type lectin receptor signaling pathway	pathway
+T cell receptor signaling pathway	pathway
+Cholinergic synapse	pathway
+Sphingolipid signaling pathway	pathway
+Neurotrophin signaling pathway	pathway
+PI3K-Akt signaling pathway	pathway
+Rap1 signaling pathway	pathway
+JAK-STAT signaling pathway	pathway
+TGF-beta signaling pathway	pathway
+Thyroid hormone signaling pathway	pathway
+Apelin signaling pathway	pathway
+Hippo signaling pathway	pathway
+FoxO signaling pathway	pathway
+p53 signaling pathway	pathway
+Autophagy - animal	pathway
+BCL2	target
+CASP3	target
+CTSB	target
+FOS	target
+MAPK1	target
+RELA	target
+TNFSF10	target
+MMP9	target
+MUC5AC	target
+HIF1A	target
+NOS2	target
+VEGFA	target
+HLA-DQB1	target
+PRLR	target
+MYC	target
+IRF9	target
+CFTR	target
+TIAM1	target
+CXCL12	target
+ITGA4	target
+THBS1	target
+CDH1	target
+ITGB2	target
+ID3	target
+SOD2	target
